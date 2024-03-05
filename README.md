@@ -4,7 +4,7 @@
 </div>
 
 <hr>
-<a href="https://www.belouskovlad@gmail.com/">
+<a href="https://www.simik101297@gmail.com/">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 
