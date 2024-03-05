@@ -3,6 +3,10 @@
     <h3>Back-end developer</h3>
 </div>
 
+
+- 👋 Hi there! I'm a backend developer from Kyrgyzstan specializing in Django. 
+- In my free time, I enjoy reading about new discoveries in the field of nature and wildlife.
+
 <hr>
 <a href="https://www.simik101297@gmail.com/">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
