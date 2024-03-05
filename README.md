@@ -2,6 +2,7 @@
     <h2>Hi there, I am Syimyk</h2>
     <h3>Back-end developer</h3>
 </div>
+
 <hr>
 <a href="https://www.belouskovlad@gmail.com/">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
