@@ -6,7 +6,7 @@
 
 My main areas of interest include backend development, web technologies, and artificial intelligence. In my free time, I enjoy learning new programming languages, reading books, and staying active.
 
-Feel free to reach out to me via [Gmail](mailto:simik101297@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/сыймык-кубатов-929304278).
+Feel free to reach out to me via [Gmail](mailto:simik101297@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/kubatov-hub).
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Crafting+digital+solutions,)](https://git.io/typing-svg) </br>
